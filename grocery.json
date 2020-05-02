@@ -1,0 +1,84 @@
+{
+    "shop" : [
+        {
+            "slno" : "1",
+            "name" : "Rice",
+            "Quantity" : "10",
+            "Unit" : "Kilogram",
+            "Department" : "Stationary",
+            "notes" : "Nirapara "
+        },
+        {
+            "slno" : "2",
+            "name" : "Notepad",
+            "Quantity" : "3",
+            "Unit" : "Number",
+            "Department" : "Stationary",
+            "notes" : " Ruled"
+        },
+        {
+            "slno" : "3",
+            "name" : "Banana",
+            "Quantity" : "1",
+            "Unit" : "Kilogram",
+            "Department" : "Fruits",
+            "notes" : " Robesta"
+        },
+        {
+            "slno" : "4",
+            "name" : "Onions",
+            "Quantity" : "2",
+            "Unit" : "Kilogram",
+            "Department" : "Vegetables",
+            "notes" : " Best Quality"
+        },
+        {
+            "slno" : "5",
+            "name" : "Carrots",
+            "Quantity" : "500",
+            "Unit" : "gram",
+            "Department" : "Vegetable",
+            "notes" : "Lengthy ones "
+        },
+        {
+            "slno" : "6",
+            "name" : "Grapes",
+            "Quantity" : "1",
+            "Unit" : "Kilogram",
+            "Department" : "Fruits",
+            "notes" : " without seeds"
+        },
+        {
+            "slno" : "7",
+            "name" : "Sanitizer",
+            "Quantity" : "1",
+            "Unit" : "Number",
+            "Department" : "Health",
+            "notes" : "less alocohol"
+        },
+            {
+            "slno" : "8",
+            "name" : "Mask",
+            "Quantity" : "10",
+            "Unit" : "Number",
+            "Department" : "Health",
+            "notes" : "Reusable "
+        },
+        {
+            "slno" : "9",
+            "name" : "Pen",
+            "Quantity" : "10",
+            "Unit" : "Number",
+            "Department" : "Stationary",
+            "notes" : " Black ball point pen only"
+        },
+        {
+            "slno" : "10",
+            "name" : "Sugar",
+            "Quantity" : "2",
+            "Unit" : "Kilogtam",
+            "Department" : "Stationary",
+            "notes" : " Non Powdered"
+        }
+    ]
+}
